@@ -37,3 +37,7 @@ True Positive = diagonal value for that class
 
 Class precision = TP / Row sum
 Class recall = TP / Column sum
+
+### Task 3: Testing
+
+Please add some meaningful tests to your code.
